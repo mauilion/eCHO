@@ -1,15 +1,20 @@
-# Episode 7: DNS with Laurent Bernaille
+# Episode NN : $title
 
-[YouTube](https://youtu.be/mo0RIJZypbQ)
-28 May 2021
+- Hosted by $twitter
+- Recording date
 
-with [Laurent Bernaille](https://twitter.com/lbernail), hosted by [Liz Rice](https://twitter.com/lizrice)
+<!--- Thumbnailed embed of the video, n8Xo_ghCIOSY is the video id from the youtube url --->
 
-## Headlines & links
 
-* [RHEL 8.4 with eBPF support](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.4_release_notes/new-features#enhancement_kernel)
-* [Routing traffic in Rust using eBPF](https://www.infinyon.com/blog/2021/05/ebpf-routing-rust/)
+## Table of Contents
 
-## DNS with Laurent Bernaille
+- 00:00:00 - Welcome to TGIK!
+- 00:00:00 - Week in Review
+- 00
+## Week in Review
 
-* Laurent's  KubeCon talk on [Kubernetes DNS Horror Stories](https://youtu.be/Yq-SVNa_W5E) 
+
+## Show Notes
+
+
+## Reference Links
